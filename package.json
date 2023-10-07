@@ -1,0 +1,14 @@
+{
+  "name": "x",
+  "version": "2.0.0",
+  "description": "os",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathamesh999/x.git"
+  },
+  "author": "Prathamesh Chinchwade",
+  "license": "MIT"
+}
